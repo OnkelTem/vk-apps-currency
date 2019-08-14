@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://VKCOM.github.io/vk-apps-currency/",
+  "homepage": "https://onkeltem.github.io/vk-apps-currency/",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build",
@@ -15,7 +15,7 @@
   "license": "MIT",
   "devDependencies": {
     "cross-env": "^5.2.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.1.1",
     "react-hot-loader": "^4.3.12",
     "react-scripts": "^1.1.5"
   },
